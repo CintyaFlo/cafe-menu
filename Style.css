@@ -53,7 +53,9 @@ h1,
 h2 {
   font-family: Impact, serif;
 }
-
+article {
+  display: flex;
+}
 .item p {
   display: inline-block;
   margin-top: 5px;
